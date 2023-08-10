@@ -102,7 +102,7 @@
   .main #content .con1 .inner .Menu2 b {
     width: 47.9167vw;
     height: 21.875vw;
-    background-image: url("/images/con2.png");
+    background-image: url("./images/con2.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin: auto;
@@ -676,7 +676,7 @@
     margin-right: 2.0833vw;
   }
   .main #content .con4 .contextAB .contentA b {
-    background-image: url(/images/con4_1_767.png);
+    background-image: url("./images/con4_1_767.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 37.9167vw;
@@ -754,7 +754,7 @@
     display: none;
   }
   .main #content .con4 .contextAB .contentB b {
-    background-image: url(/images/con4_2_767.png);
+    background-image: url("./images/con4_2_767.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 37.9167vw;
